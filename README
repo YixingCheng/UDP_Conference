@@ -1,0 +1,16 @@
+***README
+***CSCE515
+***Project3
+***Programming environment
+*** in C, and comipler is gcc, should be reflected in Makefile
+***Yixing Cheng
+
+1. Please move the untarred folder("Project3 folder") under the folder of unpv13e.
+
+2. Enter the folder Project2, and run make.
+
+3. To run confserver, enter: ./confserver
+   the protocal address will be displayed on the terminal
+
+5. To run confclient with nickname, enter: ./confclient 127.0.0.1 xxxx(this port number is shown on server's terminal) xxxxx(nickname)
+
